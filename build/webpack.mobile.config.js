@@ -10,7 +10,7 @@ module.exports = merge(webpackBaseConfig, {
   },
   output: {
     path: path.join(__dirname, '../examples/dist'),
-    publicPath: 'https://github.com/wgfjy/vine/blob/master/examples/dist/',
+    publicPath: './',
     filename: '[name].[hash:8].js',
     chunkFilename: 'async_[name].[chunkhash:8].js'
   },
