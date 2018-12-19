@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{22:function(e,n,t){"use strict";t.r(n);var o=t(1),i=Object(o.a)({},function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("ul",[n("li",[n("router-link",{attrs:{to:{name:"demo-sendcode"}}},[this._v("Sendcode 发送验证码")])],1)])])},[],!1,null,null,null);i.options.__file="demo-nav.vue";n.default=i.exports}}]);
